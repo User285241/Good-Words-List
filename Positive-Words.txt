@@ -78,6 +78,7 @@ agreeable
 agreeableness
 agreeably
 all-around
+alright
 alluring
 alluringly
 altruistic
@@ -601,8 +602,8 @@ evaluative
 evenly
 eventful
 everlasting
-everything
 everyone
+everything
 evocative
 exalt
 exaltation
