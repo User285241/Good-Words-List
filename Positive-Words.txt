@@ -78,9 +78,9 @@ agreeable
 agreeableness
 agreeably
 all-around
-alright
 alluring
 alluringly
+alright
 altruistic
 altruistically
 amaze
@@ -1042,6 +1042,7 @@ irreproachable
 irresistible
 irresistibly
 issue-free
+it's
 jaw-droping
 jaw-dropping
 jollify
@@ -1804,6 +1805,7 @@ terrific
 terrifically
 thank
 thankful
+that's
 thinner
 thoughtful
 thoughtfully
