@@ -601,6 +601,8 @@ evaluative
 evenly
 eventful
 everlasting
+everything
+everyone
 evocative
 exalt
 exaltation
@@ -1201,6 +1203,7 @@ navigable
 neat
 neatest
 neatly
+new
 nice
 nicely
 nicer
@@ -1215,6 +1218,7 @@ non-violent
 not
 notably
 noteworthy
+nothing
 nourish
 nourishing
 nourishment
@@ -1649,6 +1653,7 @@ solicitous
 solicitously
 solid
 solidarity
+something
 soothe
 soothingly
 sophisticated
