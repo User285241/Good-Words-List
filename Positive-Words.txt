@@ -1717,6 +1717,7 @@ striving
 strong
 stronger
 strongest
+stuck
 stunned
 stunning
 stunningly
