@@ -1811,7 +1811,9 @@ terrific
 terrifically
 thank
 thankful
+that
 that's
+thats
 thinner
 thoughtful
 thoughtfully
@@ -1977,7 +1979,9 @@ well-regarded
 well-rounded
 well-run
 well-wishers
+what
 what's
+whats
 whoa
 wholeheartedly
 wholesome
